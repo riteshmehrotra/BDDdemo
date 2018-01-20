@@ -2,7 +2,9 @@ This is a sample project to demonstrate behaviour driven development(BDD) using 
 
 Relevant configurations are listed in pom.xml file
 
-Run the tests using below command
+Stories are written under resources/stories directory and relevant tests are steps directory under test 
+
+Tests could be run using below command
 
 mvn clean verify
 
